@@ -1,5 +1,5 @@
 # hscspecedits
-Program for outputting number of edits per Editor for a given time period for HSC Specimin data.
+Program for outputting number of edits per Editor for a given time period for HSC Specimen data.
 
 ## running the program
 Install the program into a folder with your .csv data. Run it from the terminal:
